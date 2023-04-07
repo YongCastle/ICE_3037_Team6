@@ -1,6 +1,6 @@
 # Describe
   This project finally implements a smart baby cradle as part of the 2023-Spring-SKKU-ICE_3037 class.
-Raspberry Pi4 and Arduino were used.
+Raspberry Pi4 and Arduino were used...
 
 # Summary
 ## Arduino
