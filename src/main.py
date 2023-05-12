@@ -15,4 +15,4 @@ while True:
     except KeyboardInterrupt:
         break
 
-ser.close()6
+ser.close()
